@@ -1,6 +1,5 @@
 ### Hi there 👋, my name is An-nas
 #### I am a Mechanical Engineer Graduates who have a large interest in IT especially in the fields of Internet Of Things (IoT) and Electric Vehicle (EV)
-![I am a Mechanical Engineer Graduates who have a large interest in IT especially in the fields of Internet Of Things (IoT) and Electric Vehicle (EV)](https://png.pngtree.com/thumb_back/fh260/back_our/20190619/ourmid/pngtree-green-energy-green-poster-background-template-image_133175.jpg)
 
  I have a large interest in the Energy Sector. I would like to contribute to developing digital solutions in the Energy Sector, especially in the fields of the Internet Of Things (IoT) and Electric Vehicle (EV) Charger Firmware.
 
