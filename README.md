@@ -26,7 +26,7 @@
 
 ###
 
-<p align="center">I'm An-nas Dzikrullah from Malaysia<br><br>- 🔭 I’m working as a Software Programmer Currently<br>- 📚 I'm currently learning C++, Rust for Embedded Linux<br>- ⚡ In my free time I like to explore Digitalization in the Energy Sector where my main reference is Linux Foundation Energy , They have tons of Open Source Project there , do check them out !</p>
+<p align="center">I'm An-nas Dzikrullah from Malaysia<br><br>- 🔭 I’m working as a Software Programmer Currently<br>- 📚 I'm currently learning C++, C and Rust for Embedded Linux<br>- ⚡ In my free time I like to explore Digitalization in the Energy Sector where my main reference is Linux Foundation Energy , They have tons of Open Source Project there , do check them out !</p>
 
 ###
 
